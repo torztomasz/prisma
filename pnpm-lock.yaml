@@ -36,7 +36,7 @@ importers:
       eslint-plugin-jest: 27.2.1
       eslint-plugin-prettier: 4.2.1
       eslint-plugin-simple-import-sort: 10.0.0
-      eventemitter3: 4.0.7
+      eventemitter3: 5.0.0
       execa: 5.1.1
       fs-extra: 11.1.0
       glob: 8.1.0
@@ -95,7 +95,7 @@ importers:
       eslint-plugin-jest: 27.2.1_cxlvstdti72ph7tnrcvqamh3c4
       eslint-plugin-prettier: 4.2.1_jqplj6qf3uqpxpu4gdyhwwasnq
       eslint-plugin-simple-import-sort: 10.0.0_eslint@8.33.0
-      eventemitter3: 4.0.7
+      eventemitter3: 5.0.0
       execa: 5.1.1
       fs-extra: 11.1.0
       glob: 8.1.0
@@ -6527,6 +6527,10 @@ packages:
 
   /eventemitter3/4.0.7:
     resolution: {integrity: sha512-8guHBZCwKnFhYdHr2ysuRWErTwhoN2X8XELRlrRwpmfeY2jjuUN4taQMsULKUVo1K4DvZl+0pgfyoysHxvmvEw==}
+    dev: true
+
+  /eventemitter3/5.0.0:
+    resolution: {integrity: sha512-riuVbElZZNXLeLEoprfNYoDSwTBRR44X3mnhdI1YcnENpWTCsTTVZ2zFuqQcpoyqPQIUXdiPEU0ECAq0KQRaHg==}
     dev: true
 
   /events/3.3.0:
